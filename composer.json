@@ -1,5 +1,5 @@
 {
-  "name": "inferna/coinbase-commerce",
+  "name": "perfectpanel/extlib-coinbase-php",
   "description": "Coinbase Commerce API library",
   "keywords": [
     "bitcoin",
